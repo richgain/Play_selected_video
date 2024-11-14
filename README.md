@@ -42,4 +42,4 @@ OR
 15:15:47.804 ->                                                             
 15:15:47.804 ->                                                             
                                                             
-Note that the two Core 1 register dumps are identical apart from PS : 0x00060c30 in the first one and  PS : 0x00060430 in the second one.
+Note that the two Core 1 register dumps are identical apart from PS : 0x00060c30 in the first one and  PS : 0x00060430 in the second one, even though the Guru Meditation Error starts at different points in the Serial.print output.
